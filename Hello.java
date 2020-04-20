@@ -1,14 +1,12 @@
 
-import java.io.PrintStream;
-
-class Comments
-{
-
-
-	public static void main(String args[])
-	{
-		byte byte0 = 124;
-		System.out.println("hello b1");
-		System.out.println("99hello");
+class Hello{
+	
+	
+	public static void main(String[] args)	{
+	
+	byte b = (byte) 38;
+	
+	System.out.println("hello "+'b'+1);
+	System.out.println('b'+1+"hello");
 	}
 }
