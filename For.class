@@ -1,11 +1,13 @@
 ﻿package ForDemo;
 
 /*
-
+<<<<<<< HEAD:ForDemo.txt
  * 
- * it is edit from master
+ * it is edit from master 
+=======
  * it is Demo
  * 
+>>>>>>> feature:For.class
  * 
  */
 public class ForDemo1 {
